@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Stylized Retro MP3 Player Icon -->
+    <path
+        android:fillColor="#39FF14"
+        android:pathData="M30,30 h48 v48 h-48 z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M35,35 h38 v25 h-38 z" />
+    <path
+        android:fillColor="#39FF14"
+        android:pathData="M40,65 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+    <path
+        android:fillColor="#39FF14"
+        android:pathData="M60,65 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+    <path
+        android:fillColor="#39FF14"
+        android:pathData="M40,40 h30 v2 h-30 z M40,45 h25 v2 h-25 z M40,50 h20 v2 h-20 z" />
+</vector>
